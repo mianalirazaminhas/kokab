@@ -1,0 +1,6 @@
+{
+  "name": "Kokab Industries Presentation",
+  "description": "An interactive, animated presentation and portfolio showcase for Kokab Industries Pvt Ltd, built with GSAP scroll-triggered effects and elegant typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
